@@ -43,9 +43,10 @@ class _ChatScreenState extends State<ChatScreen> {
         );
 
       }),
-      floatingActionButton: FloatingActionButton(onPressed: (){},
-      backgroundColor: const Color(0xFF008069),
-        child: const Icon(Icons.message),
+      floatingActionButton: FloatingActionButton(
+        backgroundColor: const Color(0xFF008069),
+        onPressed: (){},
+        child: const Icon(Icons.message,color: Colors.white,),
       ),
     );
   }
