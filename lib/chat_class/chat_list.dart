@@ -26,6 +26,12 @@ class StatusList{
     Status("Kamran",  "Today, 2:05 pm", "assets/s3.jpeg"),
     Status("Ali Khan",  "Yesterday, 8:30 am", "assets/s4.jpg"),
     Status("03331234567",  "Today, 4:45 pm", "assets/s5.jpg"),
+    Status("Kamran",  "Today, 2:05 pm", "assets/s3.jpeg"),
+    Status("Asfand",  "58 minutes ago", "assets/s1.jpeg"),
+    Status("Ashraf", "Yesterday 9:00 am", "assets/s2.webp"),
+    Status("03330000000",  "Today, 4:45 pm", "assets/s5.jpg"),
+
+
 
 
   ];

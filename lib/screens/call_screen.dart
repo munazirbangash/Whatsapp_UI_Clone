@@ -22,9 +22,7 @@ class _CallScreenState extends State<CallScreen> {
 
               return Column(
                 children: [
-                  const Divider(
-                    height: 10,
-                  ),
+
                   ListTile(
                     leading: CircleAvatar(
                       backgroundImage: AssetImage(call.leading),
