@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+Screenshort run on emualator:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Whtasapp Clone UI](https://github.com/munazirbangash/whatsapp_UI_clone/assets/124512968/dc8c12d8-da1a-44de-b5d9-ea65e6d2b870)
